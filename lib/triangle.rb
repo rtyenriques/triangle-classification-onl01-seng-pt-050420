@@ -19,13 +19,15 @@ class Triangle
         :scalene
       end
     end
-
-  end
-
-
-  class TriangleError < StandardError
+    
+      class TriangleError < StandardError
     # triangle error code
   end
+
+  end
+
+
+ 
   
   tri = Triangle.new(5,0,5)
   tri.kind
