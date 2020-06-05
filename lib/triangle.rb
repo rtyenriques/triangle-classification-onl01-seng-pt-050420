@@ -27,7 +27,7 @@ class Triangle
   end
 
 
- 
+ end
   
   tri = Triangle.new(5,5,5)
   tri.kind
