@@ -29,7 +29,7 @@ class Triangle
 
  
   
-  tri = Triangle.new(5,0,5)
+  tri = Triangle.new(5,5,5)
   tri.kind
   
 
