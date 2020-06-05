@@ -27,6 +27,9 @@ class Triangle
     # triangle error code
   end
   
+  tri = Triangle.new(5,0,5)
+  tri.kind
+  
 
 end
 
