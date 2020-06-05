@@ -33,5 +33,5 @@ class Triangle
   tri.kind
   
 
-end
+
 
